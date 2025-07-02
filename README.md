@@ -2,10 +2,6 @@
 
 This project focuses on predicting customer churn using machine learning techniques. Churn prediction is vital for businesses to retain customers by identifying those at risk of leaving and taking proactive measures.
 
-## 📁 Project Structure
-
-- `Customer_Churn_Prediction.ipynb`: Main Jupyter Notebook containing the entire end-to-end churn prediction workflow.
-
 ## 🚀 Features
 
 - Data cleaning and preprocessing
